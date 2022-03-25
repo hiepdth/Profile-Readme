@@ -60,11 +60,11 @@ I'm 23-year-old boy on an intention to enhance as a Mobile engineer. I love buil
 </p>
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=hiepdth) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepdth) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=hiepdth) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiepdth&theme=tokyonight) |
 | --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=hiepdth&show_icons=true&bg_color=EA975E&title_color=fff&text_color=fff&icon_color=ffffff) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![](https://github-readme-stats.vercel.app/api?username=hiepdth&show_icons=true&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight) |
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=hiepdth&theme=react-dark&hide_border=true&area=true&bg_color=EA975E&color=ffffff&line=ffffff&area_color=000)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=hiepdth&hide_border=true&area=true&bg_color=1a1b27&color=38bdae&line=38bdae&area_color=70a5fd&point=bf91f3)
 
 ## Watch my contribution graph being eaten by a snake🐍
 
@@ -74,9 +74,9 @@ I'm 23-year-old boy on an intention to enhance as a Mobile engineer. I love buil
 
 ## My Trending Repos 💻
 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&&bg_color=EA975E&title_color=fff&text_color=fff)](https://github.com/sourabmaity/DuckHuntGame-AI) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&&bg_color=EA975E&title_color=fff&text_color=fff)](https://github.com/sourabmaity/OpenCV_Basics) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=DuckHuntGame-AI&theme=tokyonight)](https://github.com/sourabmaity/DuckHuntGame-AI) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=OpenCV_Basics&theme=tokyonight)](https://github.com/sourabmaity/OpenCV_Basics) |
 | --- | --- |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&bg_color=EA975E&title_color=fff&text_color=fff)](https://github.com/sourabmaity/JERVIS_AI) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&bg_color=EA975E&title_color=fff&text_color=fff)](https://github.com/sourabmaity/AlgorithmsAndDataStructure) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=JERVIS_AI&theme=tokyonight)](https://github.com/sourabmaity/JERVIS_AI) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sourabmaity&repo=AlgorithmsAndDataStructure&theme=tokyonight)](https://github.com/sourabmaity/AlgorithmsAndDataStructure) |
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> 
