@@ -2,21 +2,21 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
+I'm 23-year-old boy on an intention to enhance as a Mobile engineer. I love building Mobile apps, develop Back-end and operate them.
 <img width="35%" align="right" alt="Github Image" src="https://github.com/hiepdth/Profile-Readme/blob/main/code.gif" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
+- 🔭 I’m currently working on Android Development
+- 🌱 I’m currently learning iOS (Swift) and Spring Boot
 - 👯 I’m looking to collaborate on Computer Vision
 - 🤔 I’m looking for a good project
 - 💬 Ask me about Computer Vision
-- 📫 How to reach me: [maitysourab@gmail.com](mailto:maitysourab@gmail.com)
-- 😄 Pronouns: He
+- 📫 How to reach me: [dinhhiepxtb@gmail.com](mailto:dinhhiepxtb@gmail.com)
+- 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: Big fan of 🌈
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/maitysourab" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+<a href="https://www.buymeacoffee.com/dinhhiep" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
 
-## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
+## Let's Connect
 
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_6-twitter_3529664.png' alt='twitter' height='40'>](https://twitter.com/maity_sourab)&nbsp;  [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13909768/sourab-maity)&nbsp;
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/sourabmaity)&nbsp;  
@@ -28,14 +28,15 @@ I'm 22-year-old boy on an intention to enhance as a Computer Vision engineer. I 
 
 ### &nbsp;- Languages
 
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='40'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='40'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='40'/>&nbsp;
+<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='50'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/python.png' height='50'/>&nbsp;<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/java.png' height='50'/>&nbsp; <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/html.png' width='50'/>&nbsp;
 
-### &nbsp;- Libraries, Frameworks, Tools  
 
+### &nbsp;- Mobile App Development  
 
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/firebase.png' height='50'/>&nbsp;
 <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/git.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/tens.png' height='50'/>&nbsp;  <img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png' height='50'/>&nbsp;<img src = 'https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png' height='50'/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+
 
 ![Profile views](https://gpvc.arturio.dev/hiepdth)
 
